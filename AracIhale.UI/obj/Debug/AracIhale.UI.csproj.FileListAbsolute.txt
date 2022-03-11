@@ -1,0 +1,197 @@
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracOzellik.resources
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKullaniciIslem.resources
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.Properties.Resources.resources
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe.config
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.pdb
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CopyComplete
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.exe
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.pdb
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracListeleme.resources
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracSatisEkle.resources
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleEkle.resources
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleListeleme.resources
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleAracFiyat.resources
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmTramer.resources
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAnaSayfa.resources
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.AssemblyReference.cache
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAnaSayfa.resources
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracListeleme.resources
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracOzellik.resources
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracSatisEkle.resources
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleAracFiyat.resources
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleEkle.resources
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleListeleme.resources
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKullaniciIslem.resources
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmTramer.resources
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.Properties.Resources.resources
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.GenerateResource.cache
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CoreCompileInputs.cache
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.exe
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.pdb
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe.config
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.pdb
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.dll
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.xml
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kaya\Desktop\Yeni klasör (19)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CopyComplete
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe.config
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.pdb
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.dll
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.xml
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAnaSayfa.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracListeleme.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracOzellik.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracSatisEkle.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmFirmaKayit.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleAracFiyat.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleEkle.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleListeleme.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKullaniciIslem.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKurumsalUyeKayit.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKurumsalUyeOnay.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmPaketEkle.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmTramer.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.Properties.Resources.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.GenerateResource.cache
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CoreCompileInputs.cache
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CopyComplete
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.exe
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.pdb
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csprojAssemblyReference.cache
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe.config
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.pdb
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.dll
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.xml
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.AssemblyReference.cache
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAnaSayfa.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracListeleme.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracOzellik.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracSatisEkle.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmFirmaKayit.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleAracFiyat.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleEkle.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleListeleme.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKullaniciIslem.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKurumsalUyeKayit.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKurumsalUyeOnay.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmPaketEkle.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmTramer.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.Properties.Resources.resources
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.GenerateResource.cache
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CoreCompileInputs.cache
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CopyComplete
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.exe
+C:\Users\Kaya\Desktop\Yeni klasör (21)\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.pdb
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe.config
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.pdb
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.dll
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.xml
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAnaSayfa.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracListeleme.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracOzellik.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracSatisEkle.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmFirmaKayit.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleAracFiyat.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleEkle.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleListeleme.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKullaniciIslem.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKurumsalUyeKayit.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKurumsalUyeOnay.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmLogin.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmPaketEkle.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmTramer.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.Properties.Resources.resources
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.GenerateResource.cache
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CoreCompileInputs.cache
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CopyComplete
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.exe
+C:\Users\elif_\Downloads\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.pdb
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe.config
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.pdb
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.dll
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.xml
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.AssemblyReference.cache
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAnaSayfa.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracListeleme.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracOzellik.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracSatisEkle.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmFirmaKayit.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleAracFiyat.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleEkle.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleListeleme.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKullaniciIslem.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKurumsalUyeKayit.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKurumsalUyeOnay.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmLogin.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmPaketEkle.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmTramer.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.Properties.Resources.resources
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.GenerateResource.cache
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CoreCompileInputs.cache
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CopyComplete
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.exe
+C:\Users\Kaya\Desktop\odevvv\Ornekler-20220117T134323Z-001\benim eklediklerim\benim eklediklerim\AracIhale (1)\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.pdb
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe.config
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.exe
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\bin\Debug\AracIhale.UI.pdb
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.dll
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.xml
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAnaSayfa.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracListeleme.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracOzellik.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmAracSatisEkle.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmFirmaKayit.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleAracFiyat.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleEkle.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmIhaleListeleme.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKullaniciIslem.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKurumsalUyeKayit.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmKurumsalUyeOnay.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmLogin.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmPaketEkle.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.frmTramer.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.Properties.Resources.resources
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.GenerateResource.cache
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CoreCompileInputs.cache
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.CopyComplete
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.exe
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.pdb
+D:\OneDrive Dosyaları\OneDrive\Masaüstü\proje son hali\AracIhale\AracIhale.UI\obj\Debug\AracIhale.UI.csproj.AssemblyReference.cache

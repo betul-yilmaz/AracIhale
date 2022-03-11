@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D99972C8-C19D-4CE3-8E5E-BADEBBD15A8C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AracIhale.UI</RootNamespace>
+    <AssemblyName>AracIhale.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BenimEklediklerim.cs" />
+    <Compile Include="DAL\FirmaDAL.cs" />
+    <Compile Include="DAL\FirmaEklemeDAL.cs" />
+    <Compile Include="DAL\KurumsalUyeDAL.cs" />
+    <Compile Include="DAL\LoginDAL.cs" />
+    <Compile Include="DAL\PaketDAL.cs" />
+    <Compile Include="DAL\PaketDetayDAL.cs" />
+    <Compile Include="frmFirmaKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFirmaKayit.Designer.cs">
+      <DependentUpon>frmFirmaKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKurumsalUyeKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKurumsalUyeKayit.Designer.cs">
+      <DependentUpon>frmKurumsalUyeKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKurumsalUyeOnay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKurumsalUyeOnay.Designer.cs">
+      <DependentUpon>frmKurumsalUyeOnay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaketEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaketEkle.Designer.cs">
+      <DependentUpon>frmPaketEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapper\MarkaSilMapper.cs" />
+    <Compile Include="Mapper\OzellikSilMapper.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Entitiy\Arac.cs" />
+    <Compile Include="Models\Entitiy\AracGorsel.cs" />
+    <Compile Include="Models\Entitiy\AracOzellik.cs" />
+    <Compile Include="Models\Entitiy\AracSatis.cs" />
+    <Compile Include="Models\Entitiy\AracSatisDetay.cs" />
+    <Compile Include="Models\Entitiy\AracSatisTeklif.cs" />
+    <Compile Include="Models\Entitiy\AracTramerDetay.cs" />
+    <Compile Include="Models\Entitiy\AracTramerUcret.cs" />
+    <Compile Include="Models\Entitiy\BireyselKullanici.cs" />
+    <Compile Include="Models\Entitiy\Ekspertiz.cs" />
+    <Compile Include="Models\Entitiy\Firma.cs" />
+    <Compile Include="Models\Entitiy\Fonksiyon.cs" />
+    <Compile Include="Models\Entitiy\Ihale.cs" />
+    <Compile Include="Models\Entitiy\IhaleArac.cs" />
+    <Compile Include="Models\Entitiy\IhaleTeklif.cs" />
+    <Compile Include="Models\Entitiy\Iletisim.cs" />
+    <Compile Include="Models\Entitiy\IletisimTipi.cs" />
+    <Compile Include="Models\Entitiy\KomisyonUcret.cs" />
+    <Compile Include="Models\Entitiy\Kullanici.cs" />
+    <Compile Include="Models\Entitiy\KurumsalKullanici.cs" />
+    <Compile Include="Models\Entitiy\Log.cs" />
+    <Compile Include="Models\Entitiy\Marka.cs" />
+    <Compile Include="DAL\LogDAL.cs" />
+    <Compile Include="DAL\AracListelemeDAL.cs" />
+    <Compile Include="DAL\AracSatisDAL.cs" />
+    <Compile Include="DAL\GorselDAL.cs" />
+    <Compile Include="DAL\IhaleAracDAL.cs" />
+    <Compile Include="DAL\IhaleDAL.cs" />
+    <Compile Include="DAL\TramerDAL.cs" />
+    <Compile Include="DAL\TramerOzellikDAL.cs" />
+    <Compile Include="DAL\TramerTipDAL.cs" />
+    <Compile Include="frmAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnaSayfa.Designer.cs">
+      <DependentUpon>frmAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAracSatisEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAracSatisEkle.Designer.cs">
+      <DependentUpon>frmAracSatisEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIhaleAracFiyat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIhaleAracFiyat.Designer.cs">
+      <DependentUpon>frmIhaleAracFiyat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIhaleEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIhaleEkle.Designer.cs">
+      <DependentUpon>frmIhaleEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIhaleListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIhaleListeleme.Designer.cs">
+      <DependentUpon>frmIhaleListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTramer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTramer.Designer.cs">
+      <DependentUpon>frmTramer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\MarkaDAL.cs" />
+    <Compile Include="DAL\ModelDAL.cs" />
+    <Compile Include="DAL\OzellikDAL.cs" />
+    <Compile Include="DAL\StatuDAL.cs" />
+    <Compile Include="DAL\UyeTipAdiDAL.cs" />
+    <Compile Include="frmAracListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAracListeleme.Designer.cs">
+      <DependentUpon>frmAracListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAracOzellik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAracOzellik.Designer.cs">
+      <DependentUpon>frmAracOzellik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKullaniciIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKullaniciIslem.Designer.cs">
+      <DependentUpon>frmKullaniciIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entitiy\Model.cs" />
+    <Compile Include="Models\Context\MyAracIhaleEntities.cs" />
+    <Compile Include="Models\Entitiy\NoterUcret.cs" />
+    <Compile Include="Models\Entitiy\Ozellik.cs" />
+    <Compile Include="Models\Entitiy\OzellikDetay.cs" />
+    <Compile Include="Models\Entitiy\Paket.cs" />
+    <Compile Include="Models\Entitiy\PaketDetay.cs" />
+    <Compile Include="Models\Entitiy\Personel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\IRepo\IRepository.cs" />
+    <Compile Include="Repository\Repo\Repository.cs" />
+    <Compile Include="Models\Entitiy\Rol.cs" />
+    <Compile Include="Models\Entitiy\SatisHesaplama.cs" />
+    <Compile Include="Models\Entitiy\Statu.cs" />
+    <Compile Include="StaticLogin.cs" />
+    <Compile Include="sysdiagrams.cs" />
+    <Compile Include="Models\Entitiy\Tramer.cs" />
+    <Compile Include="Models\Entitiy\TramerTipi.cs" />
+    <Compile Include="Models\Entitiy\UyeTip.cs" />
+    <Compile Include="VM\AracListelemeVM.cs" />
+    <Compile Include="VM\AracSatisAddVM.cs" />
+    <Compile Include="VM\AracTramerDetayVM.cs" />
+    <Compile Include="VM\BaseVM.cs" />
+    <Compile Include="VM\FirmaAdiListVM.cs" />
+    <Compile Include="VM\FirmaKayitVM.cs" />
+    <Compile Include="VM\GorselEkleVM.cs" />
+    <Compile Include="VM\IhaleAracVM.cs" />
+    <Compile Include="VM\IhaleListVM.cs" />
+    <Compile Include="VM\IhaleVM.cs" />
+    <Compile Include="VM\KurumsalUyeKayitVM.cs" />
+    <Compile Include="VM\LogAddVM.cs" />
+    <Compile Include="VM\LoginVM.cs" />
+    <Compile Include="VM\MarkaVM.cs" />
+    <Compile Include="VM\ModelAddVM.cs" />
+    <Compile Include="VM\ModelListVM.cs" />
+    <Compile Include="VM\OzellikDetayListVM.cs" />
+    <Compile Include="VM\OzellikDetayVM.cs" />
+    <Compile Include="VM\OzellikVM.cs" />
+    <Compile Include="VM\PaketDetayVM.cs" />
+    <Compile Include="VM\PaketVM.cs" />
+    <Compile Include="VM\StatuVM.cs" />
+    <Compile Include="VM\TramerOzellikTipVM.cs" />
+    <Compile Include="VM\TramerTipVM.cs" />
+    <Compile Include="VM\TramerVM.cs" />
+    <Compile Include="VM\UyeVM.cs" />
+    <Compile Include="Models\Entitiy\Yetki.cs" />
+    <Compile Include="Models\Entitiy\YetkiKatagori.cs" />
+    <Compile Include="Models\Entitiy\YetkiMetodlari.cs" />
+    <EmbeddedResource Include="frmAnaSayfa.resx">
+      <DependentUpon>frmAnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAracListeleme.resx">
+      <DependentUpon>frmAracListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAracOzellik.resx">
+      <DependentUpon>frmAracOzellik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAracSatisEkle.resx">
+      <DependentUpon>frmAracSatisEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFirmaKayit.resx">
+      <DependentUpon>frmFirmaKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIhaleAracFiyat.resx">
+      <DependentUpon>frmIhaleAracFiyat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIhaleEkle.resx">
+      <DependentUpon>frmIhaleEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIhaleListeleme.resx">
+      <DependentUpon>frmIhaleListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKullaniciIslem.resx">
+      <DependentUpon>frmKullaniciIslem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKurumsalUyeKayit.resx">
+      <DependentUpon>frmKurumsalUyeKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKurumsalUyeOnay.resx">
+      <DependentUpon>frmKurumsalUyeOnay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaketEkle.resx">
+      <DependentUpon>frmPaketEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTramer.resx">
+      <DependentUpon>frmTramer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
